@@ -9,7 +9,7 @@ It is part of a larger system (`ManageHive`), where the backend handles data per
 ## Tech Stack
 
 - **Java 17**
-- **Spring Boot 3.x**
+- **Spring Boot 3.4**
 - **Spring Data JPA (Hibernate)**
 - **PostgreSQL**
 - **Maven**
